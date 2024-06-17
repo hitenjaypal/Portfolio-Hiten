@@ -3,4 +3,4 @@
 <br/>
 Check it Out > [https://66700a2b41e4c3260bf81310--aesthetic-frangollo-66f19c.netlify.app/](https://66700c5ec2e6762993d057fd--graceful-kringle-c07fe9.netlify.app/)
 <br/>
-Technologies used > HTML, CSS, JS , AOS Library , Bootstrap"
+Technologies used > "HTML, CSS, JS , AOS Library , Bootstrap"
